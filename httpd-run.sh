@@ -1,5 +1,5 @@
 #!/bin/sh
-cd eLeaveCore
+cd eLeaveTenantCore
 # npm i
 npm run doc:build
 # npm run test
